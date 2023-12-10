@@ -8,3 +8,5 @@ thì sử dụng git adđ, hoặc giy add -A
 6. Lệnh giúp đẩy code từ local repo lên remote repo: 2 trường hợp xảy ra, nếu là lần đầu tiền từ local repo đẩy lên github thì sẽ là 
 git push-u origin (tên nhanh: main hoặc master): git push 
 7. Lệnh giúp clone (lấy 1 bản sao ) 1 dự án từ trên github về máy tính: git clone (url của remote repo)
+8. Lệnh giúp lấy sự thay đổi mới nhất từ remote repo về máy tính: git pull origin (trên nhanahs trên remote repo)
+9. 
