@@ -19,3 +19,8 @@ git push-u origin (tên nhanh: main hoặc master): git push
 
 13. Nhớ làm bài tập capstone 
 13. hahahahhahaahhahahahahahahahh
+
+
+Khi nhánh phụ merge code lên nhánh chính, sẽ có những lỗi xung đột phát sinh và sẽ đi chọn phương án, đẩy lên remote repo 
+Khi nhánh chính đã hoàn thành quá trình merge và fix xung đột, các nhánh phụ sẽ thực hiện quá trình merge code từ nhánh chính vào nhánh phụ 
+để lấy các thầy đổi mới nhất về 
