@@ -18,3 +18,4 @@ git push-u origin (tên nhanh: main hoặc master): git push
 12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới : git checkout -b (tên nhánh mới)
 
 13. Nhớ làm bài tập capstone 
+13. hahahahhahaahhahahahahahahahh
