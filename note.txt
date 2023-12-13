@@ -12,4 +12,4 @@ git push-u origin (tên nhanh: main hoặc master): git push
 9. file .gitignore giúp hỗ trợ trong việc có 1 số file hoặc thu mục ko mún đẩy lên remote repo
 
 
-10 djadajmmmmm
+13. hahahahhahaahhahahahahahahahh
