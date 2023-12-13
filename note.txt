@@ -12,4 +12,7 @@ git push-u origin (tên nhanh: main hoặc master): git push
 9. file .gitignore giúp hỗ trợ trong việc có 1 số file hoặc thu mục ko mún đẩy lên remote repo
 
 
-10 djadajmmmmm
+//branch 
+10. Lệnh tạo nhánh mới L git branch (tên nhánh mới)
+11. Lệnh giúp chuyển nhánh: git checkout (tên nhánh muốn chuyển)
+12. Lệnh giúp tạo nhánh mới và chuyển qua nhánh mới : git checkout -b (tên nhánh mới)
